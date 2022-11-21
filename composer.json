@@ -1,0 +1,20 @@
+{
+  "name": "leafpoda/zerorpc",
+  "description": "php zerorpc client",
+  "autoload": {
+    "psr-4": {
+      "Leafpoda\\Zerorpc\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "baihaiyin",
+      "email": "baihaiyin@linkworld.cn"
+    }
+  ],
+  "require": {
+    "php": "^8.0",
+    "ext-zmq": "*",
+    "ext-msgpack": "*"
+  }
+}
