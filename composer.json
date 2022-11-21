@@ -1,5 +1,6 @@
 {
   "name": "leafpoda/zerorpc",
+  "license": "MIT",
   "description": "php zerorpc client",
   "autoload": {
     "psr-4": {
